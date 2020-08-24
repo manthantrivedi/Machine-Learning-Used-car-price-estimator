@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+sklearn
+fastapi
+uvicorn
+jinja2
+numpy
+flask
